@@ -101,18 +101,36 @@ Autonomous, zero-label drift detection system for high-velocity financial and Io
 </td>
 <td width="50%" valign="top">
 
-### 💼 More on my profile
+### 🚀 Unitech Startup — Seed Fund Recipient
 
-Explore my other repositories for additional projects in:
-- 🤖 Generative AI & LLM applications
-- 📈 Machine Learning pipelines
-- 🏗️ Data Engineering architectures
+Pitched a scalable business model and technical roadmap to a panel of university judges and **secured ₹1 Lakh in competitive seed funding**.
 
-[![All Repos](https://img.shields.io/badge/View%20All%20Repos-181717?style=for-the-badge&logo=github)](https://github.com/Venkateswara-Sahu?tab=repositories)
+**Highlights:**
+- 💰 Won **₹1,00,000** seed capital in competitive evaluation
+- 🏗️ Led technical infrastructure and product development
+- 📅 March 2024 — May 2026
+
+This experience sharpened my ability to translate technical architectures into business-ready pitches — a skill that directly applies to stakeholder communication in engineering roles.
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🎬 F1InsightAI — In Action
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Venkateswara-Sahu/Venkateswara-Sahu/main/assets/f1insight_landing.png" alt="F1InsightAI Landing Page" width="90%"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Venkateswara-Sahu/Venkateswara-Sahu/main/assets/f1insight_results.png" alt="F1InsightAI Results — RAG Evaluation, SQL, Table" width="90%"/>
+
+</div>
+
+<p align="center"><i>Ask any F1 question in plain English → get SQL, results, charts, and live RAG metrics</i></p>
 
 ---
 
@@ -146,22 +164,6 @@ Explore my other repositories for additional projects in:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Venkateswara-Sahu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Venkateswara-Sahu&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Venkateswara-Sahu)
-
-</div>
 
 ---
 
