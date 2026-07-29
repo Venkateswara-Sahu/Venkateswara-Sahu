@@ -158,33 +158,22 @@ Autonomous, zero-label drift detection for high-velocity financial and IoT data 
 
 ---
 
-## GitHub Stats
+## What I'm Working On
 
-<div align="center">
+```text
+ Currently Building  ──────────────────────────────────────────────────
+  OWADD              Autonomous drift detection (Kafka + Airflow + Jenkins)
+  P&ID MTO System    YOLOv8 + CC-guided Tesseract OCR for engineering docs
 
-<img src="https://github-readme-stats.vercel.app/api?username=Venkateswara-Sahu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github&cache_seconds=1800" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkateswara-Sahu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8&cache_seconds=1800" height="180"/>
+ Improving Skills   ──────────────────────────────────────────────────
+  LangGraph agents   Multi-node agentic AI with human-in-the-loop
+  MLOps pipelines    Production-grade CI/CD for ML systems
+  Fine-tuning LLMs   Domain adaptation for specialized NLP tasks
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Venkateswara-Sahu&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" width="60%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Venkateswara-Sahu&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" width="95%"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Venkateswara-Sahu&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8" width="95%"/>
-
-</div>
+ Open To            ──────────────────────────────────────────────────
+  Full-time roles    Generative AI | ML Engineering | MLOps
+  Locations          Bengaluru | Hyderabad | Gurugram
+```
 
 ---
 
