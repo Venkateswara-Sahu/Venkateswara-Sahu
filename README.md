@@ -29,8 +29,8 @@ class VenkateswaraSahu:
     university   = "Lovely Professional University"
     cgpa         = 8.38
     focus        = ["Agentic AI & LangGraph", "RAG Systems", "MLOps & Streaming", "Computer Vision"]
-    experience   = "Generative AI Intern @ TransOrg Analytics (Pickl.AI)"
-    packages     = ["vigil-drift (PyPI)"]
+    experience   = "Generative AI Intern @ TransOrg Analytics (Pickl.AI) [Jan 2026 – May 2026]"
+    packages     = ["vigil-drift (PyPI) — Released Aug 2026"]
     open_to      = ["Bengaluru", "Hyderabad", "Gurugram"]
     contact      = "venkateswarsahu000@gmail.com"
 
@@ -81,7 +81,7 @@ Agentic natural language to SQL system querying **700,000+ rows** across 14 tabl
 Enterprise zero-label drift detection & root-cause attribution for streaming data (Kafka, REST, Airflow).
 
 **Key Architecture & Benchmarks:**
-- **PyPI Published**: `pip install vigil-drift` (81% test coverage & GitHub Actions CI).
+- **PyPI Published (Aug 2026)**: `pip install vigil-drift` (81% test coverage & GitHub Actions CI).
 - **Dual Autoencoder Architecture**: Adaptive Autoencoder + Frozen Mirror Autoencoder ($A_{KC}$) with KDE to isolate drift from novelty without ground-truth labels.
 - **Novel `DriftAttributor`**: Computes per-feature reconstruction error $\Delta$ to rank drift root causes.
 - **End-to-End MLOps**: Kafka streaming consumer, FastAPI `/fit` & `/detect`, MLflow tracking, and Airflow auto-retraining DAG with quality gates.
@@ -216,10 +216,10 @@ Production-grade click-through rate prediction and ranking engine trained on **1
 
 | | |
 |---|---|
-| 🏢 | **Generative AI Intern** — TransOrg Analytics (Pickl.AI) |
-| 📦 | **Open-Source Author** — Created & published [`vigil-drift`](https://pypi.org/project/vigil-drift/) on PyPI |
-| 💰 | **Seed Fund Recipient** — Won ₹1,00,000 in university startup evaluation for applied AI systems |
-| 🎓 | **B.Tech (Hons.) Computer Science** — Data Science & Data Engineering @ LPU (CGPA: **8.38**) |
+| 📦 | **Open-Source Creator & PyPI Author** — `vigil-drift` (Published Aug 2026) |
+| 🏢 | **Generative AI Intern** — TransOrg Analytics (Pickl.AI) × LPU (Jan 2026 – May 2026 \| Cert: `LPUINT01052026020`) |
+| 💰 | **Seed Fund Recipient** — Won ₹1,00,000 in university startup incubation evaluation (Mar 2024 – May 2026) |
+| 🎓 | **B.Tech (Hons.) CS** — Data Science & Data Engineering @ LPU (Aug 2022 – May 2026 \| CGPA: **8.38**) |
 | 📍 | Actively targeting opportunities in **Bengaluru \| Hyderabad \| Gurugram** |
 
 ---
