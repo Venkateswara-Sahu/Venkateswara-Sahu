@@ -3,15 +3,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Venkateswara%20Sahu&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Generative%20AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20MLOps&descAlignY=58&descSize=19" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Production-Ready+Agentic+AI+%26+RAG+Pipelines+%F0%9F%A4%96;Vigil+%E2%80%94+Unsupervised+Drift+Detection+(PyPI+%7C+Kafka+%7C+Airflow);F1InsightAI+%E2%80%94+9-Node+LangGraph+Text-to-SQL+over+700k%2B+Records;P%26ID+Document+Intelligence+%E2%80%94+YOLOv8+%2B+CC-OCR+%2B+Entity+Graphs;High-Throughput+ML+%E2%80%94+10M%2B+Ad+CTR+Prediction+%26+Scoring;Open+to+Opportunities+in+Bengaluru+%7C+Hyderabad+%7C+Gurugram" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Production-Ready+Agentic+AI+%26+RAG+Pipelines;Vigil+-+Unsupervised+Drift+Detection+(PyPI+%2F+Kafka+%2F+Airflow);F1InsightAI+-+9-Node+LangGraph+Text-to-SQL+(700k%2B+Records);P%26ID+Document+AI+-+YOLOv8+%2B+CC-OCR+%2B+Entity+Graphs;High-Throughput+ML+-+10M%2B+Ad+CTR+Prediction+%26+Scoring;Open+to+Opportunities+in+Bengaluru+%2F+Hyderabad+%2F+Gurugram" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-[![Live Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://venkateswara-sahu.vercel.app/)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://venkateswara-sahu.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkateswara-sahu/)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/RiverStead/Text-to-SQL_RAG_Chatbot)
-[![Vigil Documentation](https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F%20Vigil%20Docs-0d6efd?style=for-the-badge)](https://venkateswara-sahu.github.io/OWADD/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/RiverStead/Text-to-SQL_RAG_Chatbot)
+[![Vigil Docs](https://img.shields.io/badge/Vigil_Docs-0d6efd?style=for-the-badge&logo=readthedocs&logoColor=white)](https://venkateswara-sahu.github.io/OWADD/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkateswarsahu000@gmail.com)
 
 <br/>
@@ -33,7 +33,7 @@ class VenkateswaraSahu:
     focus        = ["Agentic AI & LangGraph", "RAG Systems", "MLOps & Streaming", "Computer Vision"]
     experience   = "Generative AI Intern @ TransOrg Analytics (Pickl.AI) [Jan 2026 – May 2026]"
     packages     = ["vigil-drift (PyPI) — Released Aug 2026"]
-    open_to      = ["Bengaluru", "Hyderabad", "Gurugram"]
+    open_to      = ["Bengaluru", "Hyderabad", "Gurugram", "Remote"]
     contact      = "venkateswarsahu000@gmail.com"
 
     def current_stack(self):
@@ -174,7 +174,7 @@ Production-grade click-through rate prediction and ranking engine trained on **1
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white)
 ![Llama 3.3](https://img.shields.io/badge/Llama_3.3_70B-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-412991?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq%20Inference-F55036?style=for-the-badge)
 
@@ -222,7 +222,7 @@ Production-grade click-through rate prediction and ranking engine trained on **1
 | 🏢 | **Generative AI Intern** — TransOrg Analytics (Pickl.AI) × LPU (Jan 2026 – May 2026) |
 | 💰 | **Seed Fund Recipient** — Won ₹1,00,000 in university startup incubation evaluation (Mar 2024 – May 2026) |
 | 🎓 | **B.Tech (Hons.) in CSE (Data Science & Data Engineering)** — LPU (Aug 2022 – May 2026 \| CGPA: **8.38**) |
-| 📍 | Actively targeting opportunities in **Bengaluru \| Hyderabad \| Gurugram** |
+| 📍 | Actively targeting opportunities in **Bengaluru \| Hyderabad \| Gurugram \| Remote** |
 
 ---
 
@@ -234,11 +234,11 @@ I am actively exploring full-time opportunities in **Generative AI Engineering**
 
 <br/>
 
-[![Explore Live Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Explore%20Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://venkateswara-sahu.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkateswara-sahu/)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkateswarsahu000@gmail.com)
-[![Try F1InsightAI](https://img.shields.io/badge/Try%20F1InsightAI-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/RiverStead/Text-to-SQL_RAG_Chatbot)
-[![Vigil Docs](https://img.shields.io/badge/Read%20Vigil%20Docs-0d6efd?style=for-the-badge)](https://venkateswara-sahu.github.io/OWADD/)
+[![Live Portfolio](https://img.shields.io/badge/Explore_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://venkateswara-sahu.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkateswara-sahu/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkateswarsahu000@gmail.com)
+[![Try F1InsightAI](https://img.shields.io/badge/Try_F1InsightAI-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/RiverStead/Text-to-SQL_RAG_Chatbot)
+[![Vigil Docs](https://img.shields.io/badge/Read_Vigil_Docs-0d6efd?style=for-the-badge&logo=readthedocs&logoColor=white)](https://venkateswara-sahu.github.io/OWADD/)
 
 <br/>
 
