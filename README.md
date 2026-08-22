@@ -217,7 +217,7 @@ Production-grade click-through rate prediction and ranking engine trained on **1
 | | |
 |---|---|
 | 📦 | **Open-Source Creator & PyPI Author** — `vigil-drift` (Published Aug 2026) |
-| 🏢 | **Generative AI Intern** — TransOrg Analytics (Pickl.AI) × LPU (Jan 2026 – May 2026 \| Cert: `LPUINT01052026020`) |
+| 🏢 | **Generative AI Intern** — TransOrg Analytics (Pickl.AI) × LPU (Jan 2026 – May 2026) |
 | 💰 | **Seed Fund Recipient** — Won ₹1,00,000 in university startup incubation evaluation (Mar 2024 – May 2026) |
 | 🎓 | **B.Tech (Hons.) CS** — Data Science & Data Engineering @ LPU (Aug 2022 – May 2026 \| CGPA: **8.38**) |
 | 📍 | Actively targeting opportunities in **Bengaluru \| Hyderabad \| Gurugram** |
