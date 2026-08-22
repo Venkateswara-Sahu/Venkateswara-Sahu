@@ -8,6 +8,7 @@
 
 <br/><br/>
 
+[![Live Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://venkateswara-sahu.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkateswara-sahu/)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/RiverStead/Text-to-SQL_RAG_Chatbot)
 [![Vigil Documentation](https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F%20Vigil%20Docs-0d6efd?style=for-the-badge)](https://venkateswara-sahu.github.io/OWADD/)
@@ -25,9 +26,10 @@
 
 ```python
 class VenkateswaraSahu:
-    degree       = "B.Tech (Hons.) CS — Data Science & Data Engineering"
+    degree       = "B.Tech (Hons.) in CSE (Data Science & Data Engineering)"
     university   = "Lovely Professional University"
     cgpa         = 8.38
+    portfolio    = "https://venkateswara-sahu.vercel.app"
     focus        = ["Agentic AI & LangGraph", "RAG Systems", "MLOps & Streaming", "Computer Vision"]
     experience   = "Generative AI Intern @ TransOrg Analytics (Pickl.AI) [Jan 2026 – May 2026]"
     packages     = ["vigil-drift (PyPI) — Released Aug 2026"]
@@ -219,7 +221,7 @@ Production-grade click-through rate prediction and ranking engine trained on **1
 | 📦 | **Open-Source Creator & PyPI Author** — `vigil-drift` (Published Aug 2026) |
 | 🏢 | **Generative AI Intern** — TransOrg Analytics (Pickl.AI) × LPU (Jan 2026 – May 2026) |
 | 💰 | **Seed Fund Recipient** — Won ₹1,00,000 in university startup incubation evaluation (Mar 2024 – May 2026) |
-| 🎓 | **B.Tech (Hons.) CS** — Data Science & Data Engineering @ LPU (Aug 2022 – May 2026 \| CGPA: **8.38**) |
+| 🎓 | **B.Tech (Hons.) in CSE (Data Science & Data Engineering)** — LPU (Aug 2022 – May 2026 \| CGPA: **8.38**) |
 | 📍 | Actively targeting opportunities in **Bengaluru \| Hyderabad \| Gurugram** |
 
 ---
@@ -232,6 +234,7 @@ I am actively exploring full-time opportunities in **Generative AI Engineering**
 
 <br/>
 
+[![Explore Live Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Explore%20Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://venkateswara-sahu.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkateswara-sahu/)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkateswarsahu000@gmail.com)
 [![Try F1InsightAI](https://img.shields.io/badge/Try%20F1InsightAI-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/RiverStead/Text-to-SQL_RAG_Chatbot)
