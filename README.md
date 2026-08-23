@@ -32,7 +32,7 @@ class VenkateswaraSahu:
     portfolio    = "https://venkateswara-sahu.vercel.app"
     focus        = ["Agentic AI & LangGraph", "RAG Systems", "MLOps & Streaming", "Computer Vision"]
     experience   = "Generative AI Intern @ TransOrg Analytics (Pickl.AI) [Jan 2026 – May 2026]"
-    packages     = ["vigil-drift (PyPI) — Released Aug 2026"]
+    packages     = ["vigil-drift (PyPI) — Released Aug 2026 (93.3% Precision on NSL-KDD)"]
     open_to      = ["Bengaluru", "Hyderabad", "Gurugram", "Remote"]
     contact      = "venkateswarsahu000@gmail.com"
 
@@ -83,10 +83,11 @@ Agentic natural language to SQL system querying **700,000+ rows** across 14 tabl
 Enterprise zero-label drift detection & root-cause attribution for streaming data (Kafka, REST, Airflow).
 
 **Key Architecture & Benchmarks:**
-- **PyPI Published (Aug 2026)**: `pip install vigil-drift` (81% test coverage & GitHub Actions CI).
-- **Dual Autoencoder Architecture**: Adaptive Autoencoder + Frozen Mirror Autoencoder ($A_{KC}$) with KDE to isolate drift from novelty without ground-truth labels.
-- **Novel `DriftAttributor`**: Computes per-feature reconstruction error $\Delta$ to rank drift root causes.
-- **End-to-End MLOps**: Kafka streaming consumer, FastAPI `/fit` & `/detect`, MLflow tracking, and Airflow auto-retraining DAG with quality gates.
+- **Empirical Benchmarks (NSL-KDD)**: **93.3% precision**, **100% novel-class recall**, and **1-chunk detection delay** (200 samples) on live streaming traffic.
+- **PyPI Published (Aug 2026)**: `pip install vigil-drift` (81% test coverage & automated GitHub Actions CI).
+- **Dual Autoencoder Architecture (arXiv:2605.29834)**: Adaptive Autoencoder + Frozen Mirror Autoencoder ($A_{KC}$) with KDE to isolate drift from novelty without ground-truth labels.
+- **Novel `DriftAttributor`**: Computes per-feature reconstruction error delta Δ to rank root-cause features (e.g. `root_shell` 14.7%, `service_telnet` 9.3%).
+- **Full MLOps Pipeline**: Stream-native Kafka consumer, FastAPI service, MLflow tracking, and Airflow auto-retraining DAG with quality gates.
 
 ![PyPI](https://img.shields.io/badge/PyPI-vigil--drift-0d6efd?style=flat-square&logo=pypi&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
@@ -218,8 +219,8 @@ Production-grade click-through rate prediction and ranking engine trained on **1
 
 | | |
 |---|---|
-| 📦 | **Open-Source Creator & PyPI Author** — `vigil-drift` (Published Aug 2026) |
-| 🏢 | **Generative AI Intern** — TransOrg Analytics (Pickl.AI) × LPU (Jan 2026 – May 2026) |
+| 📦 | **Open-Source Creator & PyPI Author** — `vigil-drift` (Published Aug 2026 \| 93.3% Precision on NSL-KDD) |
+| 🏢 | **Generative AI Intern** — TransOrg Analytics (Pickl.AI) × LPU (Jan 2026 – May 2026 \| Built F1InsightAI RAG) |
 | 💰 | **Seed Fund Recipient** — Won ₹1,00,000 in university startup incubation evaluation (Mar 2024 – May 2026) |
 | 🎓 | **B.Tech (Hons.) in CSE (Data Science & Data Engineering)** — LPU (Aug 2022 – May 2026 \| CGPA: **8.38**) |
 | 📍 | Actively targeting opportunities in **Bengaluru \| Hyderabad \| Gurugram \| Remote** |
