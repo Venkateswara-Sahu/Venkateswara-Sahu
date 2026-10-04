@@ -24,7 +24,7 @@ Published a Python package using adaptive and frozen autoencoders, reconstructio
 
 Led the technical implementation of a **nine-node LangGraph workflow** with schema retrieval, SQL validation, and error-guided retries across **700,000+ Formula 1 records in 14 TiDB tables**, exposed through a Dockerized Flask API.
 
-**Evaluation:** **83.3% first-attempt SQL accuracy (15/18 benchmark SQL queries)**; average schema-retrieval MRR improved from **0.12 to 0.67** across three recorded evaluation iterations.
+**Evidence:** **15/18 SQL-question smoke checks (83.3%)** passed in a recorded 20-question benchmark using generated-SQL, result-presence and answer-keyword checks. This was not reference-result correctness or first-attempt accuracy. Historical retry counts are unreliable because the evaluator read the wrong trace field; the reported MRR improvement has no recovered reproducible aggregate.
 
 [Repository](https://github.com/Venkateswara-Sahu/AI_Powered_Text-to-SQL_RAG_Chatbot) · [Live demo](https://huggingface.co/spaces/RiverStead/Text-to-SQL_RAG_Chatbot) · [Case study](https://venkateswara-sahu.vercel.app/#f1insightai)
 
@@ -40,7 +40,7 @@ Combined YOLOv8 symbol detection, targeted OCR, NetworkX spatial graph matching,
 
 Engineered **150 features from 39 raw fields** across **10 million Criteo records**, tuned XGBoost and LightGBM with Optuna, and served scoring through Flask and Streamlit.
 
-**Evaluation:** XGBoost test AUC **0.9067** versus LightGBM **0.9024** on the recorded **7M training / 1M validation / 2M test split**. These are offline academic results, not demonstrated revenue or user impact.
+**Evidence boundary:** The serving code and released model assets are available. The README and dashboard disagree about the split labels for their displayed AUC values; numerical performance claims are omitted until the original evaluation artifacts are recovered. Training/serving preprocessing consistency also needs repair and validation.
 
 [Repository](https://github.com/Venkateswara-Sahu/CTR_Predictor_and_Scorer) · [Live app](https://ctrpredictor.streamlit.app/) · [Case study](https://venkateswara-sahu.vercel.app/#ctr-predictor)
 
@@ -52,4 +52,4 @@ Engineered **150 features from 39 raw fields** across **10 million Criteo record
 - **ML engineering:** FastAPI, Flask, Docker, GitHub Actions, Kafka, Airflow, MLflow
 - **Data and vision:** SQL, TiDB Cloud, pandas, OpenCV, YOLOv8, Tesseract OCR, NetworkX
 
-Based in Yanam, Andhra Pradesh. Open to **entry-level Applied AI, Machine Learning, and Generative AI roles**, relocation within India, and remote opportunities.
+Based in Neelapalli, Andhra Pradesh. Open to **entry-level Applied AI, Machine Learning, and Generative AI roles**, relocation within India, and remote opportunities.
