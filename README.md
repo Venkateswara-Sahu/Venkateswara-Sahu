@@ -40,7 +40,7 @@ Combined YOLOv8 symbol detection, targeted OCR, NetworkX spatial graph matching,
 
 Rebuilt the Criteo pipeline with **123 shared training/serving features** from 39 raw fields, training-only statistics and fold-excluded target encoding. Compared logistic regression, XGBoost and LightGBM; served the validation-selected model through Flask and Streamlit.
 
-**Evidence:** The October 2026 bounded study measured **0.7605 ROC AUC** and **0.4857 log loss** on **249,987 held-out rows**, with raw predictions, baseline comparisons, checksums and row-bootstrap intervals. Historical preprocessing leaked labels, so its larger-run scores are not valid baselines. No causal ranking/revenue impact or production guarantee is claimed. The v2 branch awaits merge; the live app may still use the historical revision.
+**Evidence:** The October 2026 bounded study measured **0.7605 ROC AUC** and **0.4857 log loss** on **249,987 held-out rows**, with raw predictions, baseline comparisons, checksums and row-bootstrap intervals. Historical preprocessing leaked labels, so its larger-run scores are not valid baselines. No causal ranking/revenue impact or production guarantee is claimed.
 
 [Repository](https://github.com/Venkateswara-Sahu/CTR_Predictor_and_Scorer) · [Live app](https://ctrpredictor.streamlit.app/) · [Case study](https://venkateswara-sahu.vercel.app/#ctr-predictor)
 
