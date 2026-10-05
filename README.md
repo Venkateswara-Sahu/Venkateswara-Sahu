@@ -38,9 +38,9 @@ Combined YOLOv8 symbol detection, targeted OCR, NetworkX spatial graph matching,
 
 ### CTR Predictor — supporting tabular ML project
 
-Engineered **150 features from 39 raw fields** across **10 million Criteo records**, tuned XGBoost and LightGBM with Optuna, and served scoring through Flask and Streamlit.
+Rebuilt the Criteo pipeline with **123 shared training/serving features** from 39 raw fields, training-only statistics and fold-excluded target encoding. Compared logistic regression, XGBoost and LightGBM; served the validation-selected model through Flask and Streamlit.
 
-**Evidence boundary:** The serving code and released model assets are available. The README and dashboard disagree about the split labels for their displayed AUC values; numerical performance claims are omitted until the original evaluation artifacts are recovered. Training/serving preprocessing consistency also needs repair and validation.
+**Evidence:** The October 2026 bounded study measured **0.7605 ROC AUC** and **0.4857 log loss** on **249,987 held-out rows**, with raw predictions, baseline comparisons, checksums and row-bootstrap intervals. Historical preprocessing leaked labels, so its larger-run scores are not valid baselines. No causal ranking/revenue impact or production guarantee is claimed. The v2 branch awaits merge; the live app may still use the historical revision.
 
 [Repository](https://github.com/Venkateswara-Sahu/CTR_Predictor_and_Scorer) · [Live app](https://ctrpredictor.streamlit.app/) · [Case study](https://venkateswara-sahu.vercel.app/#ctr-predictor)
 
