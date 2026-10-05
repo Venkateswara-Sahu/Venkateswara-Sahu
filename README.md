@@ -24,7 +24,7 @@ Published a Python package using adaptive and frozen autoencoders, reconstructio
 
 Led the technical implementation of a **nine-node LangGraph workflow** with schema retrieval, SQL validation, and error-guided retries across **700,000+ Formula 1 records in 14 TiDB tables**, exposed through a Dockerized Flask API.
 
-**Evidence:** **15/18 SQL-question smoke checks (83.3%)** passed in a recorded 20-question benchmark using generated-SQL, result-presence and answer-keyword checks. This was not reference-result correctness or first-attempt accuracy. Historical retry counts are unreliable because the evaluator read the wrong trace field; the reported MRR improvement has no recovered reproducible aggregate.
+**October 2026 evaluation:** **39/40 first-attempt and 39/40 final reference-result matches** on a frozen 701,433-record snapshot, after 20 separate development queries. Independently labelled dense MRR@7 improved **0.678 → 0.888**. Five separate injected invalid-column probes recovered. This small authored F1 study uses related query patterns; it does not establish arbitrary-query accuracy or production readiness. [Protocol and raw results](https://github.com/Venkateswara-Sahu/AI_Powered_Text-to-SQL_RAG_Chatbot/blob/f627442cacb4ee9c3c0b504b0d5fa1ffebc539b5/docs/evaluation/results.md).
 
 [Repository](https://github.com/Venkateswara-Sahu/AI_Powered_Text-to-SQL_RAG_Chatbot) · [Live demo](https://huggingface.co/spaces/RiverStead/Text-to-SQL_RAG_Chatbot) · [Case study](https://venkateswara-sahu.vercel.app/#f1insightai)
 
